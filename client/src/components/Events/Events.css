@@ -1,0 +1,16 @@
+.List-Container {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.events_list-item .right-container {
+    min-width: 130px;
+}
+
+.events_ul {
+    list-style: none;
+    padding: 0;
+    width:100%;
+    min-width: 380px;
+}
